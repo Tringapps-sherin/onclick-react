@@ -1,6 +1,6 @@
 
 import './App.css';
-import  Greetdisplay from './Greet';
+import  Greetdisplay from './Greetdisplay';
 function App() {
   const greetname=[{name:"sherin",age:19},{name:"sukirtha",age:20}]
   return (
